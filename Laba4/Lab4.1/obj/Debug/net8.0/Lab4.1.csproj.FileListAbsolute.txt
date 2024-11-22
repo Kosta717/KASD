@@ -1,0 +1,14 @@
+C:\Users\kosta\source\repos\Lab4.1\Lab4.1\bin\Debug\net8.0\Lab4.1.exe
+C:\Users\kosta\source\repos\Lab4.1\Lab4.1\bin\Debug\net8.0\Lab4.1.deps.json
+C:\Users\kosta\source\repos\Lab4.1\Lab4.1\bin\Debug\net8.0\Lab4.1.runtimeconfig.json
+C:\Users\kosta\source\repos\Lab4.1\Lab4.1\bin\Debug\net8.0\Lab4.1.dll
+C:\Users\kosta\source\repos\Lab4.1\Lab4.1\bin\Debug\net8.0\Lab4.1.pdb
+C:\Users\kosta\source\repos\Lab4.1\Lab4.1\obj\Debug\net8.0\Lab4.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosta\source\repos\Lab4.1\Lab4.1\obj\Debug\net8.0\Lab4.1.AssemblyInfoInputs.cache
+C:\Users\kosta\source\repos\Lab4.1\Lab4.1\obj\Debug\net8.0\Lab4.1.AssemblyInfo.cs
+C:\Users\kosta\source\repos\Lab4.1\Lab4.1\obj\Debug\net8.0\Lab4.1.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Lab4.1\Lab4.1\obj\Debug\net8.0\Lab4.1.dll
+C:\Users\kosta\source\repos\Lab4.1\Lab4.1\obj\Debug\net8.0\refint\Lab4.1.dll
+C:\Users\kosta\source\repos\Lab4.1\Lab4.1\obj\Debug\net8.0\Lab4.1.pdb
+C:\Users\kosta\source\repos\Lab4.1\Lab4.1\obj\Debug\net8.0\Lab4.1.genruntimeconfig.cache
+C:\Users\kosta\source\repos\Lab4.1\Lab4.1\obj\Debug\net8.0\ref\Lab4.1.dll

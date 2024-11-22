@@ -1,0 +1,14 @@
+C:\Users\kosta\source\repos\Lab5.1\Lab5.1\bin\Debug\net8.0\Lab5.1.exe
+C:\Users\kosta\source\repos\Lab5.1\Lab5.1\bin\Debug\net8.0\Lab5.1.deps.json
+C:\Users\kosta\source\repos\Lab5.1\Lab5.1\bin\Debug\net8.0\Lab5.1.runtimeconfig.json
+C:\Users\kosta\source\repos\Lab5.1\Lab5.1\bin\Debug\net8.0\Lab5.1.dll
+C:\Users\kosta\source\repos\Lab5.1\Lab5.1\bin\Debug\net8.0\Lab5.1.pdb
+C:\Users\kosta\source\repos\Lab5.1\Lab5.1\obj\Debug\net8.0\Lab5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosta\source\repos\Lab5.1\Lab5.1\obj\Debug\net8.0\Lab5.1.AssemblyInfoInputs.cache
+C:\Users\kosta\source\repos\Lab5.1\Lab5.1\obj\Debug\net8.0\Lab5.1.AssemblyInfo.cs
+C:\Users\kosta\source\repos\Lab5.1\Lab5.1\obj\Debug\net8.0\Lab5.1.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Lab5.1\Lab5.1\obj\Debug\net8.0\Lab5.1.dll
+C:\Users\kosta\source\repos\Lab5.1\Lab5.1\obj\Debug\net8.0\refint\Lab5.1.dll
+C:\Users\kosta\source\repos\Lab5.1\Lab5.1\obj\Debug\net8.0\Lab5.1.pdb
+C:\Users\kosta\source\repos\Lab5.1\Lab5.1\obj\Debug\net8.0\Lab5.1.genruntimeconfig.cache
+C:\Users\kosta\source\repos\Lab5.1\Lab5.1\obj\Debug\net8.0\ref\Lab5.1.dll
