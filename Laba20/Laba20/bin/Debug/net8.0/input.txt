@@ -1,0 +1,8 @@
+int x = 42;
+float y = 3.14;
+double z = 2.718;
+int invalid = abc; 
+int x = 100; 
+double long_variable_name = 123456;
+float
+broken = 5.5;
