@@ -1,0 +1,14 @@
+C:\Users\kosta\source\repos\Laba18\Laba18\bin\Debug\net8.0\Laba18.exe
+C:\Users\kosta\source\repos\Laba18\Laba18\bin\Debug\net8.0\Laba18.deps.json
+C:\Users\kosta\source\repos\Laba18\Laba18\bin\Debug\net8.0\Laba18.runtimeconfig.json
+C:\Users\kosta\source\repos\Laba18\Laba18\bin\Debug\net8.0\Laba18.dll
+C:\Users\kosta\source\repos\Laba18\Laba18\bin\Debug\net8.0\Laba18.pdb
+C:\Users\kosta\source\repos\Laba18\Laba18\obj\Debug\net8.0\Laba18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosta\source\repos\Laba18\Laba18\obj\Debug\net8.0\Laba18.AssemblyInfoInputs.cache
+C:\Users\kosta\source\repos\Laba18\Laba18\obj\Debug\net8.0\Laba18.AssemblyInfo.cs
+C:\Users\kosta\source\repos\Laba18\Laba18\obj\Debug\net8.0\Laba18.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Laba18\Laba18\obj\Debug\net8.0\Laba18.dll
+C:\Users\kosta\source\repos\Laba18\Laba18\obj\Debug\net8.0\refint\Laba18.dll
+C:\Users\kosta\source\repos\Laba18\Laba18\obj\Debug\net8.0\Laba18.pdb
+C:\Users\kosta\source\repos\Laba18\Laba18\obj\Debug\net8.0\Laba18.genruntimeconfig.cache
+C:\Users\kosta\source\repos\Laba18\Laba18\obj\Debug\net8.0\ref\Laba18.dll
