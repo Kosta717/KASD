@@ -1,0 +1,9 @@
+int x = 10;
+float y = 20;
+double z = 30;
+int x = 40;
+string a = 50;
+double w = 100;
+float
+int var1 = 123;
+string var4 = 999; 

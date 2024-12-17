@@ -1,0 +1,5 @@
+double => w(100)
+int => var1(123)
+double => z(30)
+int => x(10)
+float => y(20)
